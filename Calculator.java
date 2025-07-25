@@ -6,6 +6,7 @@ public class Calculator {
         System.out.println("1+1=2");
         System.out.println("2*4=8");
         System.out.println("4/2=2");
+        //완료2
     }
 
 }
